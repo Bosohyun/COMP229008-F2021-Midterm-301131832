@@ -1,3 +1,3 @@
 module.exports = {
-    "AtlasDB":"mongodb+srv://thomas:Hq3DKYN2NaAqGyyV@mongodbserver.k15hk.azure.mongodb.net/book_store?retryWrites=true&w=majority"
+    "AtlasDB":"mongodb+srv://bohyun:hHPYIBMyZYLuuUo8@mongodbserver.mmvvc.mongodb.net/midterm?retryWrites=true&w=majority"
 }
